@@ -1,0 +1,6 @@
+squid.conf
+*.conf
+/squid.conf
+/squid*
+squid*
+*squid*
